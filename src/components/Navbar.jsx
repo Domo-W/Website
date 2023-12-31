@@ -31,3 +31,5 @@ const Navbar = () => {
 }
 
 export default Navbar
+
+// https://www.youtube.com/watch?v=0fYi8SGA20k 26:47
